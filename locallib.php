@@ -45,7 +45,7 @@
   
   function cr_add_jsordering($cssid){
 	global $DB, $CFG, $OUTPUT;
-    echo html_writer::script(false, new moodle_url('/blocks/configurable_reports/js/jquery-latest.js'));
+    //echo html_writer::script(false, new moodle_url('/blocks/configurable_reports/js/jquery-latest.js'));
     echo html_writer::script(false, new moodle_url('/blocks/configurable_reports/js/jquery.tablesorter.min.js'));
     $script = '$(document).ready(function() {
         // call the tablesorter plugin
