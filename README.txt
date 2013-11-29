@@ -1,4 +1,5 @@
 Configurable Reports Block
+Forked for our purposess
 
 Installation, Documentation, Tutorials....
 See http://docs.moodle.org/en/blocks/configurable_reports/
